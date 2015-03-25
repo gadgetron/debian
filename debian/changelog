@@ -1,3 +1,10 @@
+gadgetron (3.6.2-1) trusty; urgency=medium
+
+  * Version updated
+  * A lot of Gadgets moved to new property interface (Closes: #XXXXXX)
+
+ -- Dusan Puletic <dusan.puletic@nih.gov>  Wed, 25 Mar 2015 18:05:45 +0000
+
 gadgetron (3.6.1-1) trusty; urgency=medium
 
   * Bug fixes to gtPlus (Closes: #XXXXXX)
