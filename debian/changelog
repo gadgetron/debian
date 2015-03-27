@@ -1,3 +1,10 @@
+gadgetron (3.6.3-1) trusty; urgency=medium
+
+  * Version updated
+  * Several enhances and bug fixes to Python interfaces. (Closes: #XXXXXX)
+
+ -- Dusan Puletic <dusan.puletic@nih.gov>  Fri, 27 Mar 2015 14:55:32 +0000
+
 gadgetron (3.6.2-1) trusty; urgency=medium
 
   * Version updated
