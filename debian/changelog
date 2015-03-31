@@ -1,3 +1,10 @@
+gadgetron (3.6.5-1) trusty; urgency=medium
+
+  * Version updated
+  * Fixes to scaling in SNR scaled reconstructions (Closes: #XXXXXX)
+
+ -- Dusan Puletic <dusan.puletic@nih.gov>  Tue, 31 Mar 2015 15:15:37 +0000
+
 gadgetron (3.6.4-1) trusty; urgency=medium
 
   * Version updated
