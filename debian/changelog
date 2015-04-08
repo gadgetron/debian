@@ -1,3 +1,10 @@
+gadgetron (3.7.3-1) trusty; urgency=medium
+
+  * Version updated
+  * EPI bug fixes, EPI test cases, improvements to chroot and startup scripts. (Closes: #XXXXXX)
+
+ -- Dusan Puletic <dusan.puletic@nih.gov>  Wed, 8 Apr 2015 14:05:18 +0000
+
 gadgetron (3.7.2-1) trusty; urgency=medium
 
   * Version updated
