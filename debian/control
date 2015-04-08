@@ -29,7 +29,7 @@ Build-Depends: cmake,
 	       nvidia-cuda-toolkit
 Homepage: http://gadgetron.github.io
 
-Package: libgadgetron3.6
+Package: libgadgetron3.7
 Architecture: amd64
 Depends: python-h5py,
 	 python-libxml2,
@@ -48,7 +48,7 @@ Package: libgadgetron-dev
 Architecture: amd64
 Depends: gadgetron-schema,
 	 gadgetron-config,
-	 libgadgetron3.6 (= ${binary:Version}),
+	 libgadgetron3.7 (= ${binary:Version}),
 	 ${misc:Depends},
 	 ${python:Depends},
          ${shlibs:Depends}
@@ -63,7 +63,7 @@ Package: gadgetron-tools
 Architecture: amd64
 Depends: gadgetron-schema,
 	 gadgetron-config,
-	 libgadgetron3.6 (= ${binary:Version}),
+	 libgadgetron3.7 (= ${binary:Version}),
 	 ${misc:Depends},
 	 ${python:Depends},
          ${shlibs:Depends}
